@@ -1,0 +1,1 @@
+# This file is intentionally left blank as it's the initialization file for the app_tasks Django application. It's presence is necessary for Python to recognize this directory as a Python package.
